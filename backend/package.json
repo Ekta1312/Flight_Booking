@@ -7,7 +7,7 @@
     "scripts": {
         "start": "nodemon index.js"
     },
-    "author": "",
+    "author": "Ekta",
     "license": "ISC",
     "dependencies": {
         "bcrypt": "^5.1.0",
